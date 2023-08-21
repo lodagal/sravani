@@ -1,7 +1,5 @@
 this is production
-<<<<<<< HEAD
 uvfuevh8eruvgve8
-vnjhrvnewruffreorufhp
-=======
-hello my world
->>>>>>> prod
+vnjhrvnewruffreorufhpgit
+hjbiyufcf
+knbuyfrddcrdc
